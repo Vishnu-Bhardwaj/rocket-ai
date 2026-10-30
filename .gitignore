@@ -1,0 +1,15 @@
+Lib/
+Scripts/
+Include/
+share/
+pyvenv.cfg
+*.zip
+*.dll
+*.exe
+*.pyd
+logs/
+logs_compare/
+videos/
+__pycache__/
+.vscode/
+*.png
